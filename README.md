@@ -1,7 +1,10 @@
-# CODTECH-Task1
+
 Name : Pooja Sunil Bendre
+
 ID :CT08DS8980
+
 Domain : Data Science
+
 Duration :OCT TO NOV 2024
 
 **OVERVIEW OF THE PROJECT :**
